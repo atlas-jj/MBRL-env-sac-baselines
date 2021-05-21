@@ -1,0 +1,1 @@
+python -i train2.py taskid=1 seed=1 env=halfcheetah experiment=halfcheeatah_run1
